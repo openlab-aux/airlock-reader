@@ -1,0 +1,6 @@
+[submodule "components/esp-st25r3911b"]
+	path = components/esp-st25r3911b
+	url = https://github.com/waaaaargh/esp-st25r3911b.git
+[submodule "components/esp-iso14443a"]
+	path = components/esp-iso14443a
+	url = https://github.com/waaaaargh/esp-iso14443a.git
