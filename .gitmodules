@@ -4,3 +4,6 @@
 [submodule "components/esp-iso14443a"]
 	path = components/esp-iso14443a
 	url = https://github.com/waaaaargh/esp-iso14443a.git
+[submodule "components/esp-desfireaes"]
+	path = components/esp-desfireaes
+	url = https://github.com/waaaaargh/esp-desfireaes.git
